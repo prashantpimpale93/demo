@@ -1,14 +1,7 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    { "id": "1", "name": "abc", "color": "red" },
+    { "id": "2", "name": "def", "color": "blue" },
+    { "id": "3", "name": "ghi", "color": "green" },
+    { "id": "4", "name": "def", "color": "yellow" },
+    { "id": "5", "name": "xyz", "color": "red" },
+  ]
